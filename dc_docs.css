@@ -1,0 +1,25 @@
+.imgprinctrans {
+display:inline-block;
+position:relative;
+left:20px;
+border:solid;
+border-color:red;
+bottom:10px;
+}
+.imgorit {
+height:150px;
+display:inline-block;
+position:relative;
+left:150px;
+border:solid;
+border-color:red;
+bottom:2px;
+}
+.imgsovremenvopros {
+display:inline-block;
+position:relative;
+left:300px;
+border:solid;
+border-color:red;
+bottom:4px;
+}
